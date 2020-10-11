@@ -831,4 +831,5 @@
   <include name="snippets/remove.xml" />
   <include name="snippets/lineage.xml" />
   <include name="snippets/streak.xml" />
+  <include name="snippets/santoni.xml" />
 </manifest>
